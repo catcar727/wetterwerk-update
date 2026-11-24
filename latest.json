@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "2.1",
-  "versionCode": 12,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.1-release.apk",
-  "size": 1224023,
-  "sha256": "d8cea669c216bd562575de09de9bffcf98d74f10c7b65bff2b8e46b93f57504e",
-  "date": "2026-11-24T10:17:23Z",
-  "notes": "WetterWerk 2.1\n- Tageskurve und Klartext statt Ring (App, Widget „Tageskurve“, Uhr)\n- Home Assistant entfernt\n- Updates werden sofort gefunden und laufen nach der Freigabe automatisch weiter"
+  "version": "2.2",
+  "versionCode": 13,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.2-release.apk",
+  "size": 1228119,
+  "sha256": "7c2ebacef133f893e0f9a2bae1a82a00c03e220de4093d49afa74b73fc00239e",
+  "date": "2026-11-24T10:28:44Z",
+  "notes": "WetterWerk 2.2\n- Eine kleine Überraschung beim ersten Start 🙂\n- Tageskurve und Klartext statt Ring (seit 2.1)"
 }
