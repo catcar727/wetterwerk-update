@@ -19,7 +19,6 @@ Christian Hitzler (privat entwickelte App). Kontakt über die Feedback-Funktion 
 | Grundkarte | OpenStreetMap (tile.openstreetmap.org) | angezeigter Kartenausschnitt, IP-Adresse |
 | Ortsname zur GPS-Position | Android-Ortsdienst (Geocoder, je nach Gerät Google), ersatzweise OpenStreetMap Nominatim | Koordinaten, IP-Adresse |
 | Update-Prüfung | GitHub (github.com, raw.githubusercontent.com) | IP-Adresse, keine Gerätedaten |
-| Home Assistant (nur wenn eingerichtet) | dein eigener Home-Assistant-Server | dein Zugriffstoken – nur an die von dir eingetragene Adresse |
 
 ## Standort
 - GPS wird nur genutzt, wenn du es erlaubst. Die genaue Position verlässt das Gerät nur als Koordinaten in den Wetteranfragen oben.
@@ -27,7 +26,7 @@ Christian Hitzler (privat entwickelte App). Kontakt über die Feedback-Funktion 
 - Es wird **kein Bewegungsverlauf** gespeichert – nur die letzte Position und der Ortsname.
 
 ## Auf dem Gerät gespeichert
-Einstellungen, gespeicherte Orte, letzte Position, zwischengespeicherte Wetter- und Kartendaten, ggf. Home-Assistant-Adresse und -Token. Alles wird gelöscht, wenn du die App-Daten löschst oder die App deinstallierst.
+Einstellungen, gespeicherte Orte, letzte Position, zwischengespeicherte Wetter- und Kartendaten. Alles wird gelöscht, wenn du die App-Daten löschst oder die App deinstallierst.
 
 ## Feedback
 Feedback wird nur gesendet, wenn du es selbst über das Teilen-Menü, WhatsApp oder E-Mail verschickst. Geräteinfos (Modell, Android-Version) hängen nur an, wenn der Schalter dafür an ist. Für den Versand gelten die Bedingungen des gewählten Messengers.

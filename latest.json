@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "1.9",
-  "versionCode": 10,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-1.9-release.apk",
+  "version": "2.1",
+  "versionCode": 12,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.1-release.apk",
   "size": 1224023,
-  "sha256": "f41bd9aac8dac851c8fb2fc05fb5a61acf37deeda7fbd9bc2ca1a85993fb0e27",
-  "date": "2026-11-24T09:56:36Z",
-  "notes": "WetterWerk 1.9\n- Datenschutzhinweis unter Einstellungen → Über → Datenschutz\n- Ortsabfrage gibt die Position nur noch auf ca. 10 m genau weiter"
+  "sha256": "d8cea669c216bd562575de09de9bffcf98d74f10c7b65bff2b8e46b93f57504e",
+  "date": "2026-11-24T10:17:23Z",
+  "notes": "WetterWerk 2.1\n- Tageskurve und Klartext statt Ring (App, Widget „Tageskurve“, Uhr)\n- Home Assistant entfernt\n- Updates werden sofort gefunden und laufen nach der Freigabe automatisch weiter"
 }
