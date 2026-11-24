@@ -5,3 +5,4 @@ Die App liest beim Öffnen `latest.json` und bietet neue Versionen zur Installat
 
 - Aktuelle Version: siehe `latest.json`
 - APK-Dateien: Ordner `apk/`
+- Datenschutzhinweis: [datenschutz.md](datenschutz.md)
