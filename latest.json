@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "2.2",
-  "versionCode": 13,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.2-release.apk",
+  "version": "2.3",
+  "versionCode": 14,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.3-release.apk",
   "size": 1228119,
-  "sha256": "7c2ebacef133f893e0f9a2bae1a82a00c03e220de4093d49afa74b73fc00239e",
-  "date": "2026-11-24T10:28:44Z",
-  "notes": "WetterWerk 2.2\n- Eine kleine Überraschung beim ersten Start 🙂\n- Tageskurve und Klartext statt Ring (seit 2.1)"
+  "sha256": "3ab632328881d3a8b2a145a460d514335cb5259604d4257d71f6247cf2e49d95",
+  "date": "2026-11-24T10:35:16Z",
+  "notes": "WetterWerk 2.3\n- Startet nach einem Update automatisch neu (einmalig „Über anderen Apps einblenden“ erlauben)\n- Ohne diese Erlaubnis: Meldung „Update installiert – tippen zum Öffnen“"
 }
