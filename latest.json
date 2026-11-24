@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "2.5",
-  "versionCode": 16,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.5-release.apk",
-  "size": 1244748,
-  "sha256": "d19a01888dfb0e9ef373455aeb18c9960060296501e79cda3aa005193919d120",
-  "date": "2026-11-24T14:15:56Z",
-  "notes": "WetterWerk 2.5\n- Sonnenstrahlen drehen sich exakt um die Sonne\n- Warmer Schein im Hintergrund folgt dem Icon (auch bei Überwiegend klar und Schauern)"
+  "version": "2.6",
+  "versionCode": 17,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.6-release.apk",
+  "size": 1248904,
+  "sha256": "de2f2548436a4b218cedac252fac73a3d22b62db6caf449b5417fb9234feb5b0",
+  "date": "2026-11-24T15:41:53Z",
+  "notes": "WetterWerk 2.6\n- Neuer Reiter Webcams & Panoramen (Windy): Favoriten, In der Nähe, Länder mit Flagge und Name (D-A-CH oben, dann A–Z)\n- Pro Land nach Kategorie und Beliebt/Neu filtern, live oder als Zeitraffer ansehen\n- Windy-Schlüssel unter Einstellungen → Webcams"
 }
