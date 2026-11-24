@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "2.3",
-  "versionCode": 14,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.3-release.apk",
-  "size": 1228119,
-  "sha256": "3ab632328881d3a8b2a145a460d514335cb5259604d4257d71f6247cf2e49d95",
-  "date": "2026-11-24T10:35:16Z",
-  "notes": "WetterWerk 2.3\n- Startet nach einem Update automatisch neu (einmalig „Über anderen Apps einblenden“ erlauben)\n- Ohne diese Erlaubnis: Meldung „Update installiert – tippen zum Öffnen“"
+  "version": "2.4",
+  "versionCode": 15,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.4-release.apk",
+  "size": 1240652,
+  "sha256": "7e7067f83aecc5bb4e690fb46f0cd1e6caa790b05f11e3ec8b7eafd7bc36cfcb",
+  "date": "2026-11-24T11:47:21Z",
+  "notes": "WetterWerk 2.4\n- Das Wetter bewegt sich: Regen, Schnee, Sonnenschein, Wolken, Sterne, Nebel und Blitze hinter der Temperatur\n- Das Wetter-Icon rechts ist ebenfalls animiert\n- Abschaltbar unter Einstellungen → Darstellung → Wetter-Animation"
 }
