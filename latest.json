@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "2.6",
-  "versionCode": 17,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.6-release.apk",
+  "version": "2.7",
+  "versionCode": 18,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.7-release.apk",
   "size": 1248904,
-  "sha256": "de2f2548436a4b218cedac252fac73a3d22b62db6caf449b5417fb9234feb5b0",
-  "date": "2026-11-24T15:41:53Z",
-  "notes": "WetterWerk 2.6\n- Neuer Reiter Webcams & Panoramen (Windy): Favoriten, In der Nähe, Länder mit Flagge und Name (D-A-CH oben, dann A–Z)\n- Pro Land nach Kategorie und Beliebt/Neu filtern, live oder als Zeitraffer ansehen\n- Windy-Schlüssel unter Einstellungen → Webcams"
+  "sha256": "f90ac3d0158df43d6d895facf9a016c9a78cc7ad98ef120feb8db174c0576ed0",
+  "date": "2026-11-24T21:16:36Z",
+  "notes": "WetterWerk 2.7\n- Suche im Webcam-Reiter: Orte (Kameras im Umkreis von 50 km) und Länder"
 }
