@@ -1,0 +1,11 @@
+{
+  "app": "WetterWerk",
+  "package": "de.hitzler.wetterwerk",
+  "version": "1.8",
+  "versionCode": 9,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-1.8-release.apk",
+  "size": 1224023,
+  "sha256": "8adcb9a24344174af011b151831b609c9cf3fb0d58e7f38e9b4f6ef182b97335",
+  "date": "2026-11-24T09:50:02Z",
+  "notes": "WetterWerk 1.8\n- Updates kommen direkt aus diesem Repo (latest.json)\n- Sucht bei jedem Öffnen nach Updates\n- Widget „Wetter & Uhr“ kompakter (4×3)"
+}
