@@ -26,7 +26,7 @@ Christian Hitzler (privat entwickelte App). Kontakt über die Feedback-Funktion 
 - Es wird **kein Bewegungsverlauf** gespeichert – nur die letzte Position und der Ortsname.
 
 ## Auf dem Gerät gespeichert
-Einstellungen, gespeicherte Orte, letzte Position, zwischengespeicherte Wetter- und Kartendaten. Alles wird gelöscht, wenn du die App-Daten löschst oder die App deinstallierst.
+Einstellungen, gespeicherte Orte, letzte Position, zwischengespeicherte Wetter- und Kartendaten sowie – nur wenn du es einträgst – dein Geburtstag (Tag und Monat, freiwillig, nur auf dem Gerät). Alles wird gelöscht, wenn du die App-Daten löschst oder die App deinstallierst.
 
 ## Feedback
 Feedback wird nur gesendet, wenn du es selbst über das Teilen-Menü, WhatsApp oder E-Mail verschickst. Geräteinfos (Modell, Android-Version) hängen nur an, wenn der Schalter dafür an ist. Für den Versand gelten die Bedingungen des gewählten Messengers.

@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "2.9",
-  "versionCode": 20,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.9-release.apk",
-  "size": 1248904,
-  "sha256": "a352bc89361f1bd23d3c41da3f011fc3f4c64e3a94a669802e8bbb1c388b3523",
-  "date": "2026-11-25T10:29:00Z",
-  "notes": "WetterWerk 2.9\n- Einstellungen in acht Kategorien gegliedert\n- Suche über alle Einstellungen"
+  "version": "3.0",
+  "versionCode": 21,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.0-release.apk",
+  "size": 1257160,
+  "sha256": "f259d8dd0a67707c6cb67c47f66978847ae46d1a7b010d043cf120e808f8980a",
+  "date": "2026-11-25T10:54:04Z",
+  "notes": "WetterWerk 3.0\n- Kleine Verbesserungen und Feinschliff"
 }
