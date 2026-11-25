@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "3.0",
-  "versionCode": 21,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.0-release.apk",
-  "size": 1257160,
-  "sha256": "f259d8dd0a67707c6cb67c47f66978847ae46d1a7b010d043cf120e808f8980a",
-  "date": "2026-11-25T10:54:04Z",
-  "notes": "WetterWerk 3.0\n- Kleine Verbesserungen und Feinschliff"
+  "version": "3.1",
+  "versionCode": 22,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.1-release.apk",
+  "size": 1286399,
+  "sha256": "55f46ab929d7fbd1e59186a0683345a653990f5dc2dcb06ec228e3cbdd5b0981",
+  "date": "2026-11-25",
+  "notes": "WetterWerk 3.1\n- Neues Logo und neue Startanimation"
 }
