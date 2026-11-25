@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "2.8",
-  "versionCode": 19,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.8-release.apk",
+  "version": "2.9",
+  "versionCode": 20,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-2.9-release.apk",
   "size": 1248904,
-  "sha256": "05b670d78bd5b951bfd60f3ae2e74f935909c1eddf1729814fa53e1e4b0ae0f6",
-  "date": "2026-11-25T10:25:17Z",
-  "notes": "WetterWerk 2.8\n- Wetter in der Statusleiste: Wettersymbol oder Temperatur im Linien-Stil der App\n- Heruntergezogene Meldung farbig mit Klartext\n- Einschalten unter Einstellungen → Benachrichtigungen, Android fragt einmal nach der Erlaubnis"
+  "sha256": "a352bc89361f1bd23d3c41da3f011fc3f4c64e3a94a669802e8bbb1c388b3523",
+  "date": "2026-11-25T10:29:00Z",
+  "notes": "WetterWerk 2.9\n- Einstellungen in acht Kategorien gegliedert\n- Suche über alle Einstellungen"
 }
