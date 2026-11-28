@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "3.5",
-  "versionCode": 26,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.5-release.apk",
-  "size": 1294834,
-  "sha256": "bed1702dbcb5e66b89dd132b77f04321aa98ba9c0e2104059f946921bd36d83b",
+  "version": "3.6",
+  "versionCode": 27,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.6-release.apk",
+  "size": 1298990,
+  "sha256": "03c1dd4660c90e922fd614ff25a8c18f0981f34d2db987f3c6462c2c505e05f6",
   "date": "2026-11-28",
-  "notes": "WetterWerk 3.5\n- Warnungsanzeige nach Wahl (Einstellungen → Darstellung)\n- Warnung wahlweise in der Zustandszeile"
+  "notes": "WetterWerk 3.6\n- Live-Streams von YouTube im Reiter Webcams\n- Eigene Links hinzufügen und entfernen"
 }
