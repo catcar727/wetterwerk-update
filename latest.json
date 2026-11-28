@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "3.3",
-  "versionCode": 24,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.3-release.apk",
-  "size": 1290738,
-  "sha256": "e92cb09579b36d045c0d038db3336f7820b30488f5e8a172d333c4a21fbb4261",
-  "date": "2026-11-27",
-  "notes": "WetterWerk 3.3\n- Einstellungen übersichtlicher\n- Regen-Hinweis unter der Temperatur\n- Stunden und Tageskurve antippbar\n- Offline-Anzeige, Energiesparmodus, Fehlerprotokoll"
+  "version": "3.4",
+  "versionCode": 25,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.4-release.apk",
+  "size": 1294834,
+  "sha256": "5801b9aa6b3b66244c4788bda02155f8f2d77d88ac35bbb46f428cabc9fc1ffd",
+  "date": "2026-11-28",
+  "notes": "WetterWerk 3.4\n- Wetterwarnungen kompakt in einer Zeile"
 }
