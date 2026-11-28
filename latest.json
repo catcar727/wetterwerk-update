@@ -1,11 +1,11 @@
 {
   "app": "WetterWerk",
   "package": "de.hitzler.wetterwerk",
-  "version": "3.4",
-  "versionCode": 25,
-  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.4-release.apk",
+  "version": "3.5",
+  "versionCode": 26,
+  "url": "https://raw.githubusercontent.com/catcar727/wetterwerk-update/main/apk/wetterwerk-3.5-release.apk",
   "size": 1294834,
-  "sha256": "5801b9aa6b3b66244c4788bda02155f8f2d77d88ac35bbb46f428cabc9fc1ffd",
+  "sha256": "bed1702dbcb5e66b89dd132b77f04321aa98ba9c0e2104059f946921bd36d83b",
   "date": "2026-11-28",
-  "notes": "WetterWerk 3.4\n- Wetterwarnungen kompakt in einer Zeile"
+  "notes": "WetterWerk 3.5\n- Warnungsanzeige nach Wahl (Einstellungen → Darstellung)\n- Warnung wahlweise in der Zustandszeile"
 }
